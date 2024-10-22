@@ -1,5 +1,5 @@
 # Common DSA Questions
-    I gathered some most common DSA interview questions from chatGPT and various sources. If you want to add something, Create a PR. Contributions welcome!
+I gathered some most common DSA interview questions from chatGPT and various sources. If you want to add something, Create a PR. Contributions welcome!
 
 # Index
 * Data Structures
