@@ -17,6 +17,7 @@ I gathered some most common DSA interview questions from chatGPT and various sou
     - [Greedy](#greedy)
     - [Divide and Conquer](#divide-and-conquer)
     - [Backtracking](#backtracking)
+    - [String-Related](#string-related)
 
 ## Array
 Here are 15 of the most common array-related data structures and algorithms (DSA) questions:
@@ -469,3 +470,65 @@ Here are 10 common Backtracking data structure and algorithm (DSA) interview que
 
 10. **Generate Parentheses**: Generate all combinations of well-formed parentheses for a given number of pairs.
 
+## String-Related
+Here are 20 of the most common string-related data structures and algorithms (DSA) questions that are frequently asked in coding interviews:
+
+1. **Reverse a String**  
+   - Reverse a given string.
+
+2. **Check if a String is a Palindrome**  
+   - Determine if a string reads the same forward and backward.
+
+3. **Longest Palindromic Substring**  
+   - Find the longest palindromic substring within a given string.
+
+4. **Longest Common Prefix**  
+   - Find the longest common prefix among an array of strings.
+
+5. **Valid Anagram**  
+   - Check if two strings are anagrams of each other.
+
+6. **Implement strstr() or IndexOf()**  
+   - Find the starting index of a substring within a given string.
+
+7. **Group Anagrams**  
+   - Group an array of strings into groups of anagrams.
+
+8. **Longest Substring Without Repeating Characters**  
+   - Find the length of the longest substring without repeating characters.
+
+9. **Count and Say**  
+   - Generate the nth term in the "count-and-say" sequence.
+
+10. **String Compression**  
+   - Compress a string by replacing repeated characters with the character followed by the count.
+
+11. **Find All Permutations of a String**  
+   - Generate all permutations of a given string.
+
+12. **Check if String is Rotated**  
+   - Check if one string is a rotation of another string.
+
+13. **Minimum Window Substring**  
+   - Find the smallest substring in s containing all characters of t.
+
+14. **Remove All Adjacent Duplicates in String**  
+   - Repeatedly remove all adjacent duplicates in a string.
+
+15. **Roman to Integer**  
+   - Convert a Roman numeral to an integer.
+
+16. **Integer to Roman**  
+   - Convert an integer to a Roman numeral.
+
+17. **Longest Common Subsequence**  
+   - Find the longest subsequence common to two strings.
+
+18. **Zigzag Conversion**  
+   - Arrange characters in a zigzag pattern and return a single string.
+
+19. **Edit Distance (Levenshtein Distance)**  
+   - Find the minimum number of operations required to convert one string to another.
+
+20. **Basic Calculator**  
+   - Implement a basic calculator to evaluate a simple expression string.
